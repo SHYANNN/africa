@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/africa/static/css/main.cc4ac544.css",
+    "main.js": "/africa/static/js/main.6709b3b9.js",
+    "static/media/home-6.png": "/africa/static/media/home-6.71fe234b997131ba629e.png",
+    "static/media/home-4.png": "/africa/static/media/home-4.930ddb6506ac0ae36e5d.png",
+    "static/media/home-7.png": "/africa/static/media/home-7.2d07457f3915c7da50c6.png",
+    "static/media/home-2.png": "/africa/static/media/home-2.72f137e17603025e713b.png",
+    "static/media/hero.png": "/africa/static/media/hero.c550ffe658c49b3af7c3.png",
+    "static/media/home-5.png": "/africa/static/media/home-5.37dad04356640dc1df92.png",
+    "static/media/home-3.png": "/africa/static/media/home-3.16669b8a126c2b199ad9.png",
+    "static/media/appstore.svg": "/africa/static/media/appstore.f9cf8f14922aee4a2e0b4d4461afc311.svg",
+    "static/media/googleplay.svg": "/africa/static/media/googleplay.269fd73b3dd84c1a6137523cf6967176.svg",
+    "static/media/logo2.svg": "/africa/static/media/logo2.4b62a16b66a1381f208b4d4e019c5de7.svg",
+    "static/media/instagram.svg": "/africa/static/media/instagram.834cab939506d638d34e731e98c7e2bf.svg",
+    "static/media/logo.svg": "/africa/static/media/logo.af3f44979c04bd65d0e72388781a83bf.svg",
+    "static/media/box.svg": "/africa/static/media/box.27d8437702667af174f7a1d851387ed9.svg",
+    "static/media/calendar.svg": "/africa/static/media/calendar.d70fd34134437e14df295c5c5a110acd.svg",
+    "static/media/plane.svg": "/africa/static/media/plane.22b906f7037e55be1bc050ed6f9f6bc7.svg",
+    "static/media/invoice.svg": "/africa/static/media/invoice.fe1ce14844b8cd376d75b13e90e49dcb.svg",
+    "static/media/twitter.svg": "/africa/static/media/twitter.2c6f1041090999ff980c4ea041578e57.svg",
+    "static/media/card.svg": "/africa/static/media/card.39b95236cd19687352a866e45c4053a1.svg",
+    "static/media/link.svg": "/africa/static/media/link.2c80a878e66c47ad8a227341334e2803.svg",
+    "static/media/fees.svg": "/africa/static/media/fees.060334846222ddcaa666896e72060057.svg",
+    "static/media/chart.svg": "/africa/static/media/chart.105795637f51fe5065c0077ea7d045e0.svg",
+    "static/media/linkedin.svg": "/africa/static/media/linkedin.4823eda7cebf0acaa2465be65fbac4a7.svg",
+    "static/media/camera.svg": "/africa/static/media/camera.f7fd1f1f39d1adf82e52da041ec9e3a6.svg",
+    "static/media/payment.svg": "/africa/static/media/payment.3c74e58105c41d8196ebdc41dca4df5b.svg",
+    "static/media/arrow.svg": "/africa/static/media/arrow.be70eeb787afcf72e0ac134c5c219c80.svg",
+    "static/media/fb.svg": "/africa/static/media/fb.c4d31ee6d8d89f7b7aed43bedcd5b779.svg",
+    "static/media/tick.svg": "/africa/static/media/tick.3bea1be97e2e1fe07c7bd152ce0f1181.svg",
+    "index.html": "/africa/index.html",
+    "main.cc4ac544.css.map": "/africa/static/css/main.cc4ac544.css.map",
+    "main.6709b3b9.js.map": "/africa/static/js/main.6709b3b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4ac544.css",
+    "static/js/main.6709b3b9.js"
+  ]
+}
